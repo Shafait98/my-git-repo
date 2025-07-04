@@ -5,6 +5,8 @@
 h1
 {
    text-align: center;
+   background-color: cadetblue;
+   /* width: 100%; */
 }
 
 div
@@ -17,4 +19,30 @@ div
     margin: 20px;
     /* width:100%; */
 
+}
+
+.spoke
+{
+    background-color: aquamarine;
+}
+
+p
+{
+  background-color:azure;
+}
+
+.master
+{
+    background-color:brown;
+}
+
+.masterh3
+{
+    background-color: beige;
+    
+}
+
+li,ul
+{
+    background-color:burlywood;
 }
